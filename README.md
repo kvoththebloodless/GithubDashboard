@@ -2,6 +2,7 @@
 
 A dashboard that quickly surmizes the type and number of repositories, clones and some organizational information. Everything has been pulled from a dummy API. 
 
+http://shielded-bayou-51743.herokuapp.com/
 ### Aim
 
 The aim of the project was to design a neat responsive react app that can catch the eye with contained components and eased-in animations and quickly surmize information like a good dashboard does.
